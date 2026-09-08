@@ -1,7 +1,7 @@
 <h1 align="center">RX-NET</h1>
 
 <p align="center">
-  Building high-performance systems since 2023.<br/>
+  Backend Developer since 2023.<br/>
 </p>
 
 <p align="center">
